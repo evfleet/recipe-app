@@ -18,5 +18,6 @@ typings/
 .env
 .env.test
 
-# next.js build output
+# build output
+lib/
 .next
